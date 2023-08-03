@@ -1,0 +1,94 @@
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\bin\Debug\net6.0-windows\Financeiro_V3.exe
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\bin\Debug\net6.0-windows\Financeiro_V3.deps.json
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\bin\Debug\net6.0-windows\Financeiro_V3.runtimeconfig.json
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\bin\Debug\net6.0-windows\Financeiro_V3.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\bin\Debug\net6.0-windows\Financeiro_V3.pdb
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.csproj.AssemblyReference.cache
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.GeneratedMSBuildEditorConfig.editorconfig
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.AssemblyInfoInputs.cache
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.AssemblyInfo.cs
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.csproj.CoreCompileInputs.cache
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\obj\Debug\net6.0-windows\refint\Financeiro_V3.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.pdb
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.genruntimeconfig.cache
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\obj\Debug\net6.0-windows\ref\Financeiro_V3.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.Form1.resources
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.csproj.GenerateResource.cache
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_2.Telas.ClientRegistrationForm.resources
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\obj\Debug\net6.0-windows\FInanceiro_3._0.LoanRegistrationForm.resources
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\bin\Debug\net6.0-windows\Financeiro_V3.dll.config
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_2.Telas.LoginForm.resources
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_2.Telas.UsersForm.resources
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.csproj.CopyComplete
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_2.Telas.DashboardForm.resources
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.PagamentoForm.resources
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\Financeiro_V3.exe
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\Financeiro_V3.dll.config
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\Financeiro_V3.deps.json
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\Financeiro_V3.runtimeconfig.json
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\Financeiro_V3.dll
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\Financeiro_V3.pdb
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.csproj.AssemblyReference.cache
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_2.Telas.ClientRegistrationForm.resources
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_2.Telas.DashboardForm.resources
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.Form1.resources
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\FInanceiro_3._0.LoanRegistrationForm.resources
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_2.Telas.LoginForm.resources
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.PagamentoForm.resources
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_2.Telas.UsersForm.resources
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.csproj.GenerateResource.cache
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.AssemblyInfoInputs.cache
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.AssemblyInfo.cs
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.csproj.CopyComplete
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.dll
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\refint\Financeiro_V3.dll
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.pdb
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.genruntimeconfig.cache
+C:\Users\mauro\Documents\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\ref\Financeiro_V3.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\Financeiro_V3.exe
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\Financeiro_V3.dll.config
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\Financeiro_V3.deps.json
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\Financeiro_V3.runtimeconfig.json
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\Financeiro_V3.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\Financeiro_V3.pdb
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.csproj.AssemblyReference.cache
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_2.Telas.ClientRegistrationForm.resources
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_2.Telas.DashboardForm.resources
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.Form1.resources
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\FInanceiro_3._0.LoanRegistrationForm.resources
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_2.Telas.LoginForm.resources
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.PagamentoForm.resources
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_2.Telas.UsersForm.resources
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.csproj.GenerateResource.cache
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.GeneratedMSBuildEditorConfig.editorconfig
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.AssemblyInfoInputs.cache
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.AssemblyInfo.cs
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.csproj.CoreCompileInputs.cache
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.csproj.CopyComplete
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\refint\Financeiro_V3.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.pdb
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.genruntimeconfig.cache
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\ref\Financeiro_V3.dll
+D:\USTM - Desenvolvimento de Software\3.º Ano\C#\Projectos\Financeiro_V3\Financeiro_V3\obj\Debug\net6.0-windows\Financeiro_V3.Properties.Resources.resources
